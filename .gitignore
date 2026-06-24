@@ -1,0 +1,30 @@
+
+# Secrets
+esp32/config.h
+server/.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build files
+build/
+dist/
+*.ino.cpp
+*.ino.elf
+*.ino.hex
+
+# Node.js
+server/node_modules/
+server/package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+*.log
+
+# Backup files
+*.backup
+*.old
